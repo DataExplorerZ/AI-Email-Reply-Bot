@@ -1,0 +1,5 @@
+python-dotenv
+openai
+imaplib2
+email
+schedule
